@@ -5,7 +5,7 @@
 
 Um sistema inteligente de recomendação de músicas que analisa suas playlists do Spotify e sugere novas músicas baseadas no seu gosto musical.
 
-## ✨ Funcionalidades
+## Funcionalidades
 
 - **Análise de Playlists**: Extrai e analisa características musicais das suas playlists
 - **Sistema de Recomendação**: Sugere músicas similares
